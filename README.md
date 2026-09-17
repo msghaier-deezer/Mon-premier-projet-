@@ -1,7 +1,7 @@
 # Mon-premier-projet-
 Mon premier projet pour apprendre GitHub
 
-# Mon premier projet
+# Amélioration du readme
 
 J'apprends à utiliser GitHub.
 
